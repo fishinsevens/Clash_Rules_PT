@@ -1,1 +1,1 @@
-适用于 Clash Premium 内核的PT规则
+适用于 Clash Premium 内核规则
